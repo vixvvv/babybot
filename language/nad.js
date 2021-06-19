@@ -35,9 +35,7 @@ exports.baned = () => {
 }
 
 exports.premium = (prefix) => {
-	return`Lu Siapa? Fitur ini khusus user premium!
-Upgrade ke premium dulu bosku
-Jika minat hubungi owner ku
+	return`Belum Premium
 Ketik : ${prefix}owner`
 }
 
@@ -125,10 +123,10 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 0812-1444-1027
-Gopay : 0855-5924-0360
-Dana : 0855-5924-0360
-Saweria : https://saweria.co/ramlangans
+Pulsa : 0812-2192-6582
+Gopay : 0887-184-8793
+Dana : -
+Saweria : https://saweria.co/bi
 
 Donasi supaya bot terus update & Aktif`
 }
